@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.formatting.provider": "black",
+		"python.formatting.blackPath": "C:\\Users\\micah\\.virtualenvs\\yapf-test\\Scripts\\black",
+		"editor.formatOnSave": true
+	}
+}
